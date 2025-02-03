@@ -1,0 +1,64 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>catalog table</title>
+</head>
+<body>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd;">
+<thead style="background-color: #f2f2f2;>
+<tr style="background-color: #f4f4f4;">
+<th style="padding: 10px; border: 1px solid #ddd;">Product Name</th>
+<th style="padding: 10px; border: 1px solid #ddd;">Product Image</th>
+<th style="padding: 10px; border: 1px solid #ddd;">Price</th>
+<th style="padding: 10px; border: 1px solid #ddd;">Description</th>
+<th style="padding: 10px; border: 1px solid #ddd;">Availability</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd;">wireless mouse</td>
+<td style="padding: 10px; border: 1px solid #ddd;"><img src="https://placehold.co/100" alt="Wireless mouse" width="100"> </td>
+<td style="padding: 10px; border: 1px solid #ddd;">$25.50</td>
+<td style="padding: 10px; border: 1px solid #ddd;">A high-precision wireless mouse for everyday use.</td>
+<td style="padding: 10px; border: 1px solid #ddd;">In Stock</td>
+</tr>
+
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd;">Bluetooth speaker</td>
+<td style="padding: 10px; border: 1px solid #ddd;"><img src="
+https://placehold.co/100" alt="Bluetooth Speaker" width="100"> </td>
+<td style="padding: 10px; border: 1px solid #ddd;">$50.99</td>
+<td style="padding: 10px; border: 1px solid #ddd;">A portable Bluetooth speaker with clear sound quality.</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Out of Stock</td>
+</tr>
+
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd;">Smartphone Stand</td>
+<td style="padding: 10px; border: 1px solid #ddd;"><img src="https://placehold.co/100" alt="Smartphone stand" width="100"> </td>
+<td style="padding: 10px; border: 1px solid #ddd;">$15.00</td>
+<td style="padding: 10px; border: 1px solid #ddd;">An adjustable stand for smartphones and tablets.</td>
+<td style="padding: 10px; border: 1px solid #ddd;">In Stock</td>
+</tr>
+
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd;">Noise-cancelling Headphones</td>
+<td style="padding: 10px; border: 1px solid #ddd;"><img src="https://placehold.co/100" alt="Noise-cancelling Headphones" width="100"> </td>
+<td style="padding: 10px; border: 1px solid #ddd;">$100.00</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Over-ear headphones with noise-cancelling technology</td>
+<td style="padding: 10px; border: 1px solid #ddd;">In Stock</td>
+</tr>
+
+<tr>
+<td colspan="4" style="padding: 10px; text-align: center; border: 1px solid #ddd; background-color: #f4f4f4;">Total Items</td>
+<td style="padding: 10px; text-align: center; border: 1px solid #ddd;">3</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+
+

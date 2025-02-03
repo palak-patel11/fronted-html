@@ -1,0 +1,34 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>contact form</title>
+</head>
+<body>
+<fieldset>
+<legend>Contact form</legend>
+<form action="">
+<label for="">Full Name:</label>
+<input type="text" name="" id="" maxlength="30" required><br><br>
+<label for="">Email:</label>
+<input type="text" name="Email id" id="" placeholder="Email" required><br><br>
+<label for="">Phone Number:</label>
+<input type="Tel" name="" id="" placeholder="Tel" maxlength="11" required><br><br>
+<label for="">Subject:</label>
+<select name="Subject" required>
+<option value="P">PHP</option>
+<option value="W">Web developer</option>
+<option value="C">Cyber Security</option>
+<option value="A">App Developer</option>
+<option value="U">UI/UX</option>
+<option value="G">Graphic Design</option>
+<option value="D">Data Analytics</option>
+<option value="D">Data Science</option>
+</select><br><br>
+<label for="">Message:</label>
+<textarea name="" id="" required></textarea><br><br>
+<input type="Submit" name="" id="">
+</form>
+</body>
+</html> 
